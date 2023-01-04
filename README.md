@@ -89,8 +89,14 @@ You should now see the three missing extensions. In order to fix this you must h
 </p>
 <p>
 Refresh the osTicket site in your browser and you should no longer have any missing extensions. Once completed head back into C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename it to "C:\inetpub\wwwroot\osTicket\include\ost-config.php".
-  
-  
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/8W2ql65.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now that it's renamed, its must be assigned permissions. Disable inheritance and then select "Remove All". After that select "New Permissions", then "Everyone", and "All". 
   
   
   
