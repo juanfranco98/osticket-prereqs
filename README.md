@@ -45,7 +45,7 @@ Head to the control panel by clicking the start button. Once the control panel i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Xo2OZxC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 personal descriotion
