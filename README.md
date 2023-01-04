@@ -81,9 +81,14 @@ Open IIS and then Stop and Start the server. Then go to "Sites" and click "Defau
 </p>
 <p>
 You should now see the three missing extensions. In order to fix this you must head back into IIS, click "sites", then "default", and lastly "osTicket". From there double click PHP Manager and then select "Enable or Disable an Extension". Enable the following; "php_imap.dll", "php_intl.dll", and "php_opcache.dll". 
+</p>
+<br />
 
-
-
+<p>
+<img src="https://i.imgur.com/uBBE4dJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Refresh the osTicket site in your browser and you should no longer have any missing extensions. Once completed head back into C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename it to "C:\inetpub\wwwroot\osTicket\include\ost-config.php".
   
   
   
