@@ -73,7 +73,19 @@ You may now proceed to install osTicket v1.15.8, and once that is downloaded you
 </p>
 <p>
 Open IIS and then Stop and Start the server. Then go to "Sites" and click "Default" and then "osTicket". You should then see in the right side of the window "Browse *:80". That will route you to osTicket's page showing you what else is required to complete the install.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/uBBE4dJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+You should now see the three missing extensions. In order to fix this you must head back into IIS, click "sites", then "default", and lastly "osTicket". From there double click PHP Manager and then select "Enable or Disable an Extension". Enable the following; "php_imap.dll", "php_intl.dll", and "php_opcache.dll". 
 
 
 
-
+  
+  
+  
+  
+  
