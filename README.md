@@ -57,8 +57,14 @@ The next step is to then download and install "Web Platform Installer". Upon ope
 </p>
 <p>
 Make sure you add all simple versions of x86 PHP up until 7.3. You might also have a few failures so in order to resolve them you will have to install PHP version 7.3.8, PHP Manager 1.5.0 for IIS 10, and Microsoft Visual C++ 2009 Redistibutable Package.
+</p>
+<br />
 
-
+<p>
+<img src="https://i.imgur.com/jzlbu5w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+uyfu ufuj f
 
 
 
