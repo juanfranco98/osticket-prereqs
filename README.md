@@ -19,6 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
+- Create a virtual machine and complete all following actions within it
 - Enable Information Services
 - Install web platform installer
 - Install MySQL instead of username and password
