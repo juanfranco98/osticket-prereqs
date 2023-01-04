@@ -97,7 +97,7 @@ Refresh the osTicket site in your browser and you should no longer have any miss
 </p>
 <p>
 Now that it's renamed, its must be assigned permissions. Disable inheritance and then select "Remove All". After that select "New Permissions", then "Everyone", and "All". 
-  </p>
+</p>
 <br />
 
 <p>
@@ -106,8 +106,14 @@ Now that it's renamed, its must be assigned permissions. Disable inheritance and
 <p>
 You can now begin setting up osTicket. Under "Helpdesk Name" enter your name followed by the word "Helpdesk". For example, "Juans Helpdesk". Feel free to use any email you'd like for "Default Email". Create youself as an admin user with whatever username and password you would like, just make sure you write it down somewhere you wont forget! 
 Before you head to the next setup page its important that you download and install HeidiSQL. From within HeidiSQL create a new session with the credentials created. Connect to the session and then create a database  called "osTicklet".
-  
-  
+ </p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/HfHS7sb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> 
+Continue setting up osTicket in the browser. Under "Database Settings" make sure your username and password are the same as the ones previously created and then click "Install Now!" 
   
   
   
