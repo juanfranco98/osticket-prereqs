@@ -40,7 +40,7 @@ For this tutorial I will be using Microsoft Azure. Begin by creating a Virtual m
 <img src="https://i.imgur.com/5KePHSn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-personal description
+Head to the control panel by clicking the start button. Once the control panel is open click "Programs" and you should then see an option to "Turn windows features on or off". Once that option is selected you will be shown many of the different windows features. From there search for "Internet Information Services" and proceed by selecting it then clicking "OK". IIS has now been installed.
 </p>
 <br />
 
