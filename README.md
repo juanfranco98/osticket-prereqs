@@ -115,8 +115,8 @@ Before you head to the next setup page its important that you download and insta
 <p> 
 Continue setting up osTicket in the browser. Under "Database Settings" make sure your username and password are the same as the ones previously created and then click "Install Now!" 
   
-  
-  
+  -Finish up by deleting C:\inetpub\wwwroot\osTicket\setup. And then set permissions to “Read” only for C:\inetpub\wwwroot\osTicket\include\ost-config.php
+   Doing this will bypass any alerts and popups that osTicket would throw at you.
   
   
   
