@@ -48,6 +48,20 @@ Head to the control panel by clicking the start button. Once the control panel i
 <img src="https://i.imgur.com/Xo2OZxC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-personal descriotion
+The next step is to then download and install "Web Platform Installer". Upon opening the program you must then download "MySQL 5.5" from within the program to which you will later create credentials for
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Xo2OZxC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+blah blah
+
+
+
+
+
+
+
+
