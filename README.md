@@ -105,7 +105,7 @@ Now that it's renamed, its must be assigned permissions. Disable inheritance and
 </p>
 <p>
 You can now begin setting up osTicket. Under "Helpdesk Name" enter your name followed by the word "Helpdesk". For example, "Juans Helpdesk". Feel free to use any email you'd like for "Default Email". Create youself as an admin user with whatever username and password you would like, just make sure you write it down somewhere you wont forget! 
-Before you head to the next setup page its important that you download and install HeidiSQL
+Before you head to the next setup page its important that you download and install HeidiSQL. From within HeidiSQL create a new session with the credentials created. Connect to the session and then create a database  called "osTicklet".
   
   
   
