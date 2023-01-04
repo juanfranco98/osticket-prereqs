@@ -101,10 +101,11 @@ Now that it's renamed, its must be assigned permissions. Disable inheritance and
 <br />
 
 <p>
-<img src="https://i.imgur.com/uBBE4dJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/w9Wndks.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  yessss
+You can now begin setting up osTicket. Under "Helpdesk Name" enter your name followed by the word "Helpdesk". For example, "Juans Helpdesk". Feel free to use any email you'd like for "Default Email". Create youself as an admin user with whatever username and password you would like, just make sure you write it down somewhere you wont forget! 
+Before you head to the next setup page its important that you download and install HeidiSQL
   
   
   
