@@ -85,7 +85,7 @@ You should now see the three missing extensions. In order to fix this you must h
 <br />
 
 <p>
-<img src="https://i.imgur.com/uBBE4dJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XeDzkx1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Refresh the osTicket site in your browser and you should no longer have any missing extensions. Once completed head back into C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename it to "C:\inetpub\wwwroot\osTicket\include\ost-config.php".
