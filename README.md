@@ -61,10 +61,10 @@ Make sure you add all simple versions of x86 PHP up until 7.3. You might also ha
 <br />
 
 <p>
-<img src="https://i.imgur.com/jzlbu5w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bQC3dqu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-uyfu ufuj f
+You may now proceed to install osTicket v1.15.8, and once that is downloaded you must extract and copy the "upload" folder INTO c:\inetpub\wwwroot. After that the next step is to rename the "upload" folder to "osTicket" from within c:\inetpub\wwwroot.
 
 
 
