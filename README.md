@@ -97,6 +97,20 @@ Refresh the osTicket site in your browser and you should no longer have any miss
 </p>
 <p>
 Now that it's renamed, its must be assigned permissions. Disable inheritance and then select "Remove All". After that select "New Permissions", then "Everyone", and "All". 
+  </p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/uBBE4dJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  yessss
+  
+  
+  
+  
+  
+  
   
   
   
