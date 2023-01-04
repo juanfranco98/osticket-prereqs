@@ -65,8 +65,14 @@ Make sure you add all simple versions of x86 PHP up until 7.3. You might also ha
 </p>
 <p>
 You may now proceed to install osTicket v1.15.8, and once that is downloaded you must extract and copy the "upload" folder INTO c:\inetpub\wwwroot. After that the next step is to rename the "upload" folder to "osTicket" from within c:\inetpub\wwwroot.
+</p>
+<br />
 
-
+<p>
+<img src="https://i.imgur.com/8B9rhwN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open IIS and then Stop and Start the server. Then go to "Sites" and click "Default" and then "osTicket". You should then see in the right side of the window "Browse *:80". That will route you to osTicket's page showing you what else is required to complete the install.
 
 
 
